@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+}
+#myclockdisplay{
+	text-align: center;
+	font-size: 50px;
+}
+.clock{
+	border: 1px solid black;
+	background-color: #1d4746;
+	width: 350px;
+	margin: auto;
+	color: white; 
+}
